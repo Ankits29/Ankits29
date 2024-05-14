@@ -7,7 +7,7 @@
 
 I am Ankit Shukla, a Top Rated **Full Stack Developer** on [Upwork](https://www.upwork.com/freelancers/ankitmvpexpert) and [Freelancer](https://www.freelancer.com/u/Ankits29.html), with over 10 years of experience in crafting cutting-edge solutions for both Mobile and Web applications. My passion lies in not just delivering products, but also in creating experiences that delight users and drive business growth. I believe in a collaborative approach, working closely with clients to understand their vision and translate it into reality.
 
-### 💼 Past Projects: Somw of my past work based on industry includes
+### 💼 Past Projects: Some of my past work based on industry includes
 
 - Marketplace Apps
 - Customer platforms for team and order management
