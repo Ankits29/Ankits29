@@ -7,28 +7,6 @@
 
 I am Ankit Shukla, a Top Rated **Full Stack Developer** on [Upwork](https://www.upwork.com/freelancers/ankitmvpexpert) and [Freelancer](https://www.freelancer.com/u/Ankits29.html), with over 10 years of experience in crafting cutting-edge solutions for both Mobile and Web applications. My passion lies in not just delivering products, but also in creating experiences that delight users and drive business growth. I believe in a collaborative approach, working closely with clients to understand their vision and translate it into reality.
 
-### 💼 Past Projects: Some of my past work based on industry includes
-
-- Marketplace Apps
-- Customer platforms for team and order management
-- Trello-like task management systems
-- Health & Nutrition platforms
-- Service Marketplace Platform Development
-- Freelance platforms similar to Upwork
-- Recipe and Meal Planner apps
-- Project management apps
-- Event listing apps
-- Custom case management solutions for law firms
-- Time tracking and invoice generation web apps
-
-### 🔧 What I Offer
-
-- **Transparent & Regular Communication:** I ensure you feel involved in every step of the project.
-- **Commitment to Work:** I commit only to what can be delivered, without false promises.
-- **Expertise in Providing Exceptional Customer Experience:**
-- **Onestop shop for product ideation, launch support, and scaling.**
-- **In-depth understanding of Progressive Web Apps (PWA) development and deployment.**
-
 ## 🛠️ Technologies & Tools
 
 ### UI/UX/PROTOTYPE
@@ -77,6 +55,30 @@ I am Ankit Shukla, a Top Rated **Full Stack Developer** on [Upwork](https://www.
 ![Asana](https://img.shields.io/badge/-Asana-273347?style=flat-square&logo=asana&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-809CC9?style=flat-square&logo=svn&logoColor=white)
+
+
+### 💼 Past Projects: Some of my past work based on industry includes
+
+- Marketplace Apps
+- Customer platforms for team and order management
+- Trello-like task management systems
+- Health & Nutrition platforms
+- Service Marketplace Platform Development
+- Freelance platforms similar to Upwork
+- Recipe and Meal Planner apps
+- Project management apps
+- Event listing apps
+- Custom case management solutions for law firms
+- Time tracking and invoice generation web apps
+
+### 🔧 What I Offer
+
+- **Transparent & Regular Communication:** I ensure you feel involved in every step of the project.
+- **Commitment to Work:** I commit only to what can be delivered, without false promises.
+- **Expertise in Providing Exceptional Customer Experience:**
+- **Onestop shop for product ideation, launch support, and scaling.**
+- **In-depth understanding of Progressive Web Apps (PWA) development and deployment.**
+
 
 ## 📞 Let's Connect
 If you're looking for a reliable partner for your next big idea, feel free to reach out to me. You can find me on:
